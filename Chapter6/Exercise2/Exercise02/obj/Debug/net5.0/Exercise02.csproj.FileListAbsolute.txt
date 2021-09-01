@@ -1,0 +1,16 @@
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\bin\Debug\net5.0\Exercise02.exe
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\bin\Debug\net5.0\Exercise02.deps.json
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\bin\Debug\net5.0\Exercise02.runtimeconfig.json
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\bin\Debug\net5.0\Exercise02.runtimeconfig.dev.json
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\bin\Debug\net5.0\Exercise02.dll
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\bin\Debug\net5.0\ref\Exercise02.dll
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\bin\Debug\net5.0\Exercise02.pdb
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\obj\Debug\net5.0\Exercise02.csproj.AssemblyReference.cache
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\obj\Debug\net5.0\Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\obj\Debug\net5.0\Exercise02.AssemblyInfoInputs.cache
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\obj\Debug\net5.0\Exercise02.AssemblyInfo.cs
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\obj\Debug\net5.0\Exercise02.csproj.CoreCompileInputs.cache
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\obj\Debug\net5.0\Exercise02.dll
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\obj\Debug\net5.0\ref\Exercise02.dll
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\obj\Debug\net5.0\Exercise02.pdb
+C:\ADAM\Code C#\Chapter6\Exercise2\Exercise02\obj\Debug\net5.0\Exercise02.genruntimeconfig.cache
