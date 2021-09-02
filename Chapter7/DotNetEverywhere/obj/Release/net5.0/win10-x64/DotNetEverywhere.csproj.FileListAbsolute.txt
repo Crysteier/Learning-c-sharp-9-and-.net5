@@ -1,0 +1,16 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\win10-x64\DotNetEverywhere.exe
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\win10-x64\DotNetEverywhere.deps.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\win10-x64\DotNetEverywhere.runtimeconfig.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\win10-x64\DotNetEverywhere.runtimeconfig.dev.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\win10-x64\DotNetEverywhere.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\win10-x64\ref\DotNetEverywhere.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\win10-x64\DotNetEverywhere.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\obj\Release\net5.0\win10-x64\DotNetEverywhere.csproj.AssemblyReference.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\obj\Release\net5.0\win10-x64\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\obj\Release\net5.0\win10-x64\DotNetEverywhere.AssemblyInfoInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\obj\Release\net5.0\win10-x64\DotNetEverywhere.AssemblyInfo.cs
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\obj\Release\net5.0\win10-x64\DotNetEverywhere.csproj.CoreCompileInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\obj\Release\net5.0\win10-x64\DotNetEverywhere.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\obj\Release\net5.0\win10-x64\ref\DotNetEverywhere.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\obj\Release\net5.0\win10-x64\DotNetEverywhere.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\obj\Release\net5.0\win10-x64\DotNetEverywhere.genruntimeconfig.cache

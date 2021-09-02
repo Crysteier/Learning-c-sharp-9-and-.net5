@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "qy4uVsQKTHgHZXzAgiCN7NrjyxxK63xXhaLGD8WexVDFwVbzaNSnVXbky1JTcYose/NRgyQ0XFNlNSo+CDhq7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amoricz\\Documents\\GitHub\\Learning-c-9-and-.net5\\Chapter7\\DotNetEverywhere\\DotNetEverywhere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amoricz\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.9\\microsoft.netcore.app.runtime.win-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\amoricz\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\5.0.9\\microsoft.netcore.app.runtime.osx-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\amoricz\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.9\\microsoft.netcore.app.runtime.linux-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\amoricz\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\amoricz\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.9\\microsoft.aspnetcore.app.runtime.win-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\amoricz\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\5.0.9\\microsoft.aspnetcore.app.runtime.osx-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\amoricz\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.9\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\amoricz\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\5.0.9\\microsoft.netcore.app.host.osx-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\amoricz\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.9\\microsoft.netcore.app.host.linux-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

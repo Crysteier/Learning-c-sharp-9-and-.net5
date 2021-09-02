@@ -1,0 +1,2 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\release\net5.0\win10-x64\publish\DotNetEverywhere.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\release\net5.0\win10-x64\publish\DotNetEverywhere.exe

@@ -1,0 +1,9 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.deps.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\SharedLibrary\bin\Release\netstandard2.0\SharedLibrary.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\SharedLibrary\obj\Release\netstandard2.0\SharedLibrary.pdb

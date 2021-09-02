@@ -1,0 +1,9 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\osx-x64\publish\DotNetEverywhere.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\osx-x64\publish\libSystem.IO.Compression.Native.dylib
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\osx-x64\publish\libSystem.Native.dylib
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\osx-x64\publish\libSystem.Net.Security.Native.dylib
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\osx-x64\publish\libSystem.Security.Cryptography.Native.Apple.dylib
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\osx-x64\publish\libSystem.Security.Cryptography.Native.OpenSsl.dylib
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\osx-x64\publish\libclrjit.dylib
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\osx-x64\publish\libcoreclr.dylib
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter7\DotNetEverywhere\bin\Release\net5.0\osx-x64\publish\DotNetEverywhere
