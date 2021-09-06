@@ -1,0 +1,16 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.exe
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.deps.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.dev.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\bin\Debug\net5.0\ref\WorkingWithText.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\bin\Debug\net5.0\WorkingWithText.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csproj.AssemblyReference.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfoInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfo.cs
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\obj\Debug\net5.0\ref\WorkingWithText.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithText\obj\Debug\net5.0\WorkingWithText.genruntimeconfig.cache

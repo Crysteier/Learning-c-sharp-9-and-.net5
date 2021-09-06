@@ -1,0 +1,16 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.exe
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.deps.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.runtimeconfig.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.runtimeconfig.dev.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\bin\Debug\net5.0\ref\WorkingWithNumbers.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\bin\Debug\net5.0\WorkingWithNumbers.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.csproj.AssemblyReference.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\obj\Debug\net5.0\ref\WorkingWithNumbers.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithNumbers\obj\Debug\net5.0\WorkingWithNumbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\bin\Debug\net5.0\Internationalization.exe
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\bin\Debug\net5.0\Internationalization.deps.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\bin\Debug\net5.0\Internationalization.runtimeconfig.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\bin\Debug\net5.0\Internationalization.runtimeconfig.dev.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\bin\Debug\net5.0\Internationalization.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\bin\Debug\net5.0\ref\Internationalization.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\bin\Debug\net5.0\Internationalization.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\obj\Debug\net5.0\Internationalization.csproj.AssemblyReference.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\obj\Debug\net5.0\Internationalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\obj\Debug\net5.0\Internationalization.AssemblyInfoInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\obj\Debug\net5.0\Internationalization.AssemblyInfo.cs
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\obj\Debug\net5.0\Internationalization.csproj.CoreCompileInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\obj\Debug\net5.0\Internationalization.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\obj\Debug\net5.0\ref\Internationalization.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\obj\Debug\net5.0\Internationalization.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\Internationalization\obj\Debug\net5.0\Internationalization.genruntimeconfig.cache

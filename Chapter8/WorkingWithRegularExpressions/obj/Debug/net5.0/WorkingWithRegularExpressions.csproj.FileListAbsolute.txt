@@ -1,0 +1,16 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.exe
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.deps.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.runtimeconfig.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.runtimeconfig.dev.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\bin\Debug\net5.0\ref\WorkingWithRegularExpressions.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\bin\Debug\net5.0\WorkingWithRegularExpressions.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.csproj.AssemblyReference.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\obj\Debug\net5.0\ref\WorkingWithRegularExpressions.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRegularExpressions\obj\Debug\net5.0\WorkingWithRegularExpressions.genruntimeconfig.cache

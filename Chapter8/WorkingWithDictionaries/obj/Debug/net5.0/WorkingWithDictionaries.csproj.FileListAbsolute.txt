@@ -1,0 +1,16 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.exe
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.deps.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.runtimeconfig.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.runtimeconfig.dev.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\bin\Debug\net5.0\ref\WorkingWithDictionaries.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\bin\Debug\net5.0\WorkingWithDictionaries.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.csproj.AssemblyReference.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.AssemblyInfoInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.AssemblyInfo.cs
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\obj\Debug\net5.0\ref\WorkingWithDictionaries.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithDictionaries\obj\Debug\net5.0\WorkingWithDictionaries.genruntimeconfig.cache

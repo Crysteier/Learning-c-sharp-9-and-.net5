@@ -1,0 +1,16 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.csproj.AssemblyReference.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.AssemblyInfoInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.AssemblyInfo.cs
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.csproj.CoreCompileInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.exe
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.deps.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.runtimeconfig.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.runtimeconfig.dev.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\bin\Debug\net5.0\ref\WorkingWithReflection.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\bin\Debug\net5.0\WorkingWithReflection.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\obj\Debug\net5.0\ref\WorkingWithReflection.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithReflection\obj\Debug\net5.0\WorkingWithReflection.genruntimeconfig.cache

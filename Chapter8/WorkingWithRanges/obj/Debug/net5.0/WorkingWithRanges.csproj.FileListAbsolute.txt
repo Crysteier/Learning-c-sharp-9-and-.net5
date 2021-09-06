@@ -1,0 +1,16 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.exe
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.deps.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.dev.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\bin\Debug\net5.0\ref\WorkingWithRanges.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.csproj.AssemblyReference.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfoInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfo.cs
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\obj\Debug\net5.0\ref\WorkingWithRanges.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter8\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.genruntimeconfig.cache
