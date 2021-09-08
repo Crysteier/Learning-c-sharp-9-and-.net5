@@ -1,0 +1,16 @@
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.exe
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.deps.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.runtimeconfig.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.runtimeconfig.dev.json
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\bin\Debug\net5.0\ref\WorkingWithStreams.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\obj\Debug\net5.0\ref\WorkingWithStreams.dll
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.pdb
+C:\Users\amoricz\Documents\GitHub\Learning-c-9-and-.net5\Chapter 9\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.genruntimeconfig.cache
