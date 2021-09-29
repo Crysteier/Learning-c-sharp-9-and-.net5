@@ -1,0 +1,16 @@
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.exe
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.deps.json
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.runtimeconfig.json
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.runtimeconfig.dev.json
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.dll
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\bin\Debug\net5.0\ref\WorkingWithEncodings.dll
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\bin\Debug\net5.0\WorkingWithEncodings.pdb
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.dll
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\obj\Debug\net5.0\ref\WorkingWithEncodings.dll
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.pdb
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter9\WorkingWithEncodings\obj\Debug\net5.0\WorkingWithEncodings.genruntimeconfig.cache
