@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VS Projects\\Learning-c-sharp-9-and-.net5\\Chapter10\\RandomizingApp\\RandomizingApp.csproj": {}
+  },
+  "projects": {
+    "D:\\VS Projects\\Learning-c-sharp-9-and-.net5\\Chapter10\\CryptographyLib\\CryptographyLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS Projects\\Learning-c-sharp-9-and-.net5\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
+        "projectName": "CryptographyLib",
+        "projectPath": "D:\\VS Projects\\Learning-c-sharp-9-and-.net5\\Chapter10\\CryptographyLib\\CryptographyLib.csproj",
+        "packagesPath": "C:\\Users\\guntel\\.nuget\\packages\\",
+        "outputPath": "D:\\VS Projects\\Learning-c-sharp-9-and-.net5\\Chapter10\\CryptographyLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\guntel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VS Projects\\Learning-c-sharp-9-and-.net5\\Chapter10\\RandomizingApp\\RandomizingApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VS Projects\\Learning-c-sharp-9-and-.net5\\Chapter10\\RandomizingApp\\RandomizingApp.csproj",
+        "projectName": "RandomizingApp",
+        "projectPath": "D:\\VS Projects\\Learning-c-sharp-9-and-.net5\\Chapter10\\RandomizingApp\\RandomizingApp.csproj",
+        "packagesPath": "C:\\Users\\guntel\\.nuget\\packages\\",
+        "outputPath": "D:\\VS Projects\\Learning-c-sharp-9-and-.net5\\Chapter10\\RandomizingApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\guntel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\VS Projects\\Learning-c-sharp-9-and-.net5\\Chapter10\\CryptographyLib\\CryptographyLib.csproj": {
+                "projectPath": "D:\\VS Projects\\Learning-c-sharp-9-and-.net5\\Chapter10\\CryptographyLib\\CryptographyLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

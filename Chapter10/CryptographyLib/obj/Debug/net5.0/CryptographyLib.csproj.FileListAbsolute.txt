@@ -1,0 +1,12 @@
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\bin\Debug\net5.0\CryptographyLib.deps.json
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\bin\Debug\net5.0\CryptographyLib.dll
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\bin\Debug\net5.0\ref\CryptographyLib.dll
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\bin\Debug\net5.0\CryptographyLib.pdb
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.csproj.AssemblyReference.cache
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.AssemblyInfoInputs.cache
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.AssemblyInfo.cs
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.csproj.CoreCompileInputs.cache
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.dll
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\obj\Debug\net5.0\ref\CryptographyLib.dll
+D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\CryptographyLib\obj\Debug\net5.0\CryptographyLib.pdb
