@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = SecureApp
-build_property.ProjectDir = D:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\SecureApp\
+build_property.ProjectDir = d:\VS Projects\Learning-c-sharp-9-and-.net5\Chapter10\SecureApp\
